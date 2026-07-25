@@ -1,9 +1,7 @@
 
 <h1 align="center">Hello there 👋</h1> <h3 align="center">Desarrollador en formación — cruzando la galaxia del código</h3> <p align="center"> <img src="https://img.shields.io/badge/status-en%20entrenamiento%20Jedi-yellow?style=flat-square" alt="status"/> <img src="https://img.shields.io/badge/powered%20by-the%20Force-black?style=flat-square" alt="force"/> <img src="https://img.shields.io/badge/bootcamp-en%20curso-blue?style=flat-square" alt="bootcamp"/> </p>
 
-🚀 Sobre mí — "Un desarrollador nuevo en esta galaxia"
-
-Estoy cursando un Bootcamp de programación, aprendiendo a construir cosas desde cero. Como todo buen padawan, entreno paso a paso: primero la teoría, después la práctica, y sin saltarme el camino.
+<h2>🚀 Sobre mí — "Un desarrollador nuevo en esta galaxia"</h2> <p>Desarrollador en formación intensiva, construyendo proyectos reales con <strong>HTML5, CSS3, JavaScript e IA Generativa</strong> mientras curso un <strong>Bootcamp de programación</strong>. Como todo buen padawan, entreno con disciplina — pero ya estoy en el campo de batalla, escribiendo código y resolviendo problemas.</p>
 
 ---
 
